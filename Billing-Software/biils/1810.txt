@@ -1,0 +1,18 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 1810
+ Customer Name : Arun
+ Phone Number : 4567893156
+=========================================
+ Products		QTY		Price
+=========================================
+ Bath Soap		5		200
+ Face Cream		5		600
+ Pulses		1		0
+ Cock		5		200
+-----------------------------------------
+ Cosmetic Tax				Rs. 40.0
+ Grocery Tax				Rs. 14.0
+ Cold Drink Tax				Rs. 10.0
+ Total Bill				Rs. 1204.0
+-----------------------------------------

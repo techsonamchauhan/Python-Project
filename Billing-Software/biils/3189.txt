@@ -1,0 +1,13 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 3189
+ Customer Name : gagan
+ Phone Number : 45678963445
+=========================================
+ Products		QTY		Price
+=========================================
+ Bath Soap		2		80
+-----------------------------------------
+ Cosmetic Tax				Rs. 4.0
+ Total Bill				Rs. 84.0
+-----------------------------------------
